@@ -1,0 +1,39 @@
+{
+  "data": {
+    "labels": [
+      "2015 Q1",
+      "2016 Q1",
+      " 2017 Q1",
+      " 2018 Q1",
+      " 2018 Q4"
+    ],
+    "datasets": [
+      {
+        "data": [
+          3500000,
+          7500000,
+          13000000,
+          24500000,
+          32500000
+        ],
+        "label": "",
+        "backgroundColor": "#0f0"
+      }
+    ]
+  },
+  "options": {
+    "responsive": "true",
+    "scales": {
+      "xAxes": [
+        {
+          "stacked": true
+        }
+      ],
+      "yAxes": [
+        {
+          "stacked": true
+        }
+      ]
+    }
+  }
+}
